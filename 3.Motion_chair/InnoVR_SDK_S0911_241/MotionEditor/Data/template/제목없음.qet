@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QETemplate version="0.5">
+	<Description>테스트용 템플릿폼</Description>
+	<Project limit_data="1" middle_time_intact="1" time_way="1"/>
+	<Layer name="Heave" joy="3" max="40" min="-40"/>
+	<Layer name="Roll" joy="0" max="5" min="-5"/>
+	<Layer name="Pitch" joy="1" max="5" min="-5"/>
+	<Layer name="FaceWater" joy="3" max="1" min="-1"/>
+	<Layer name="FaceAir" joy="3" max="1" min="-1"/>
+	<Layer name="NeckTickler" joy="3" max="1" min="-1"/>
+	<Layer name="LegTickler" joy="3" max="1" min="-1"/>
+	<Layer name="Wind" joy="3" max="255" min="-255"/>
+	<Layer name="Fog" joy="3" max="255" min="-255"/>
+	<Layer name="Light" joy="3" max="255" min="-255"/>
+	<Layer name="Distable" joy="3" max="3" min="-3"/>
+</QETemplate>

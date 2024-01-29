@@ -1,0 +1,2452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QEProject version="0.7">
+	<Project limit_data="1" middle_time_intact="1" time_way="1" lock="0"/>
+	<Video name="F:\01. MotionCue\08. Wall of China\SDK\[VRSS1]GreatWallForSDK.mp4" size="3454"/>
+	<Timeline start="0" end="3454"/>
+	<Layer name="Heave" joy="3" max="30" min="-30">
+		<Clip start="0" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="209" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.98919255326418" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.90319912789568" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.733685984127" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.48552970444835" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.16586929024578" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.78390078581446" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.35061272501738" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.878470011304042" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="0.507004289068108" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-0.254419674329465" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="246" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="372" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.98919255326418" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.90319912789568" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.733685984127" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.48552970444835" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.16586929024578" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.78390078581446" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.35061272501738" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.878470011304042" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="0.507004289068108" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-0.254419674329465" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="409" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="936" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="6" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-6" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="6" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-6" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="6" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="955" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="999" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="6" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-6" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="6" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-6" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="6" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1018" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.99589082908552" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.96311845422013" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.89811174200373" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.80193810041019" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.67617669731944" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.5228925306353" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.34460252109116" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.14423418449818" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.925077562036684" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.690731197893304" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.445043051289528" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-0.255755566900498" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="0.128141717833029" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1067" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.418538755531728" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.24746988918364" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.052120450505" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.81682883810216" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.52671087923651" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4.16794953319597" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4.72806382416415" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.19615176911671" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5.56310257243205" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.82177395709096" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="5.94160816381937" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-5.98538417086124" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1112" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1157" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="6" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-6" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="6" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-6" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="6" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1176" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1278" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1478" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.8" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.8" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.8" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.8" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.8" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.8" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.8" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.8" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.8" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1513" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.16532601982257" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.49547596998808" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.824121176543311" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.1502635552126" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.47291262272316" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.79108850486895" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.10382491235523" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.41017207538615" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.70919962808319" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.99999943397462" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.28168834397492" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.55341087847845" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.81434182542182" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4.0636887464247" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4.30069438339822" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4.52463895831188" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4.73484235913489" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4.93066620531318" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5.11151578650937" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.27684186871775" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5.42614236226923" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.55896384666051" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5.67490294757669" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.77360756192528" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5.85477792716129" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.91816753165584" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5.96358386334357" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5.99088899437518" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="5.99772178906954" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1627" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.224281742337226" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.670024755142823" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.10734182139734" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.53073342754124" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.93487518068282" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.31468476590029" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.66538585927417" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.98256819290691" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.26224301657754" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.50089325856916" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.69551775486806" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.84366899052684" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.94348387857214" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.99370718939457" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1683" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-4" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="4" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-4" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="4" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1855" linear="0">
+			<Cycle arrow="2" data="0" ratio="5" size="5"/>
+			<Cycle arrow="3" data="-15" ratio="4" size="4"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1870" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2024" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2127" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2245" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2513" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.9" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3.9" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.9" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2631" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.5" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.5" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1.5" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-1.5" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2697" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.163154310321881" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.488377166400541" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.810349954364931" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.12692999932397" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.4360105141866" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.73553461997648" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.0235090340165" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.29801733489061" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.55723271590687" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.79943014218952" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.02299783049667" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.22644797536743" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.40842665021763" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.56772281749414" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.70327638792659" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.81418527524366" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3.89971139940587" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3.95928559840442" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3.98669022896423" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3.99667114544501" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2774" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="4" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-4" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="4" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-4" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2802" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.119269520490534" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.357054501475371" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="0.592582069879613" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-0.824363145202117" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.05093233346741" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.27085719191437" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.4827472853568" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1.68526297695868" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1.87712389784606" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.05711704200798" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.22410443530779" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.37703033011907" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.51492788009925" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.63692525290098" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.74225114217459" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.83023964401319" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.90033446700978" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.9520924493092" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2.97867611328422" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-2.9905164430961" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="2.99762815369183" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3048" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3180" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="5" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-5" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="5" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3207" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-3" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3376" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.99889988567579" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.99010365236295" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.97253693349799" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.94625125527262" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.91132371807797" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.86785677035594" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.81597790810043" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2.75583930088974" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2.68761734554718" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-2.61151214873903" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="2.52774694002743" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-2.43656741709985" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="2.33824102509584" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-2.23305617214458" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="2.12132138341454" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-2.0033643961564" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="1.87953119839356" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-1.75018501408018" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="1.61570523770305" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-1.47648632145278" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="1.33293661822796" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-1.1854771838663" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="1.03454054211577" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-0.880569415968512" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="0.724015429078523" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-0.565337781072231" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="0.405001900637428" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-0.243478080341306" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="0.162418649893332" ratio="1" size="1"/>
+			<Cycle arrow="2" data="0" ratio="1" size="1"/>
+			<Cycle arrow="3" data="-8.12400971818982E-02" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+	</Layer>
+	<Layer name="Roll" joy="0" max="10" min="-10">
+		<Clip start="0" linear="0">
+			<Cycle arrow="0" data="0" ratio="6" size="5"/>
+			<Cycle arrow="1" data="0.6" ratio="6" size="5"/>
+			<Cycle arrow="2" data="0" ratio="6" size="5"/>
+			<Cycle arrow="3" data="-0.6" ratio="6" size="5"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="4"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="4"/>
+			<Cycle arrow="2" data="0" ratio="5" size="4"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="4"/>
+			<Cycle arrow="0" data="0" ratio="5" size="3"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="3"/>
+			<Cycle arrow="2" data="0" ratio="5" size="3"/>
+			<Cycle arrow="3" data="-0.6" ratio="5" size="3"/>
+			<Cycle arrow="0" data="0" ratio="5" size="3"/>
+			<Cycle arrow="1" data="0.6" ratio="5" size="3"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="265" linear="0">
+			<Cycle arrow="0" data="0" ratio="69" size="77"/>
+			<Cycle arrow="3" data="3.92" ratio="1"/>
+		</Clip>
+		<Clip start="343" linear="0">
+			<Cycle arrow="1" data="3.92" ratio="49" size="21"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="424" linear="0">
+			<Cycle arrow="0" data="0" ratio="4" size="4"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="0" data="0" ratio="4" size="4"/>
+			<Cycle arrow="1" data="1" ratio="3" size="3"/>
+			<Cycle arrow="2" data="0" ratio="3" size="3"/>
+			<Cycle arrow="3" data="-1" ratio="3" size="3"/>
+			<Cycle arrow="0" data="0" ratio="3" size="3"/>
+			<Cycle arrow="1" data="1" ratio="3" size="3"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="460" linear="0">
+			<Cycle arrow="2" data="0" ratio="5" size="5"/>
+			<Cycle arrow="3" data="-1" ratio="5" size="5"/>
+			<Cycle arrow="0" data="0" ratio="5" size="5"/>
+			<Cycle arrow="1" data="1" ratio="5" size="5"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="481" linear="0">
+			<Cycle arrow="2" data="0" ratio="161" size="161"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="643" linear="0">
+			<Cycle arrow="3" data="-4" ratio="118" size="118"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="825" linear="0">
+			<Cycle arrow="0" data="0" ratio="5" size="5"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="0" data="0" ratio="4" size="4"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="0" data="0" ratio="4" size="4"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="997" linear="0">
+			<Cycle arrow="0" data="0" ratio="5" size="5"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="0" data="0" ratio="4" size="4"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="0" data="0" ratio="4" size="4"/>
+			<Cycle arrow="1" data="1" ratio="4" size="4"/>
+			<Cycle arrow="2" data="0" ratio="4" size="4"/>
+			<Cycle arrow="3" data="-1" ratio="4" size="4"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1047" linear="0">
+			<Cycle arrow="2" data="0" ratio="99" size="99"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1147" linear="0">
+			<Cycle arrow="3" data="-4" ratio="99" size="77"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1278" linear="0">
+			<Cycle arrow="1" data="2" ratio="13" size="13"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1292" linear="0">
+			<Cycle arrow="2" data="0" ratio="14" size="14"/>
+			<Cycle arrow="3" data="-5.2" ratio="1"/>
+		</Clip>
+		<Clip start="1307" linear="0">
+			<Cycle arrow="0" data="-5.2" ratio="6" size="6"/>
+			<Cycle arrow="3" data="-5.2" ratio="1"/>
+		</Clip>
+		<Clip start="1314" linear="0">
+			<Cycle arrow="3" data="-5.2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1324" linear="0">
+			<Cycle arrow="0" data="0" ratio="12" size="12"/>
+			<Cycle arrow="3" data="7.2" ratio="1"/>
+		</Clip>
+		<Clip start="1337" linear="0">
+			<Cycle arrow="0" data="7.2" ratio="14" size="14"/>
+			<Cycle arrow="3" data="7.2" ratio="1"/>
+		</Clip>
+		<Clip start="1352" linear="0">
+			<Cycle arrow="1" data="7.2" ratio="18" size="18"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1371" linear="0">
+			<Cycle arrow="2" data="0" ratio="17" size="17"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="1389" linear="0">
+			<Cycle arrow="0" data="-4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1399" linear="0">
+			<Cycle arrow="0" data="-6" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="1409" linear="0">
+			<Cycle arrow="0" data="-4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1419" linear="0">
+			<Cycle arrow="0" data="-6" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="1429" linear="0">
+			<Cycle arrow="0" data="-4" ratio="17" size="17"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1447" linear="0">
+			<Cycle arrow="0" data="-6" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="1457" linear="0">
+			<Cycle arrow="0" data="-4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1478" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="3" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1682" linear="0">
+			<Cycle arrow="1" data="8" ratio="49" size="18"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1701" linear="0">
+			<Cycle arrow="2" data="0" ratio="6" size="6"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1708" linear="0">
+			<Cycle arrow="3" data="-4" ratio="49" size="18"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1727" linear="0">
+			<Cycle arrow="0" data="0" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="1737" linear="0">
+			<Cycle arrow="1" data="2" ratio="14" size="14"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1932" linear="1">
+			<Cycle arrow="0" data="0" ratio="24" size="20"/>
+			<Cycle arrow="3" data="5.6" ratio="1"/>
+		</Clip>
+		<Clip start="1953" linear="0">
+			<Cycle arrow="0" data="-4" ratio="13" size="13"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="1971" linear="0">
+			<Cycle arrow="0" data="4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="1981" linear="0">
+			<Cycle arrow="0" data="4" ratio="27" size="27"/>
+			<Cycle arrow="3" data="9.36" ratio="1"/>
+		</Clip>
+		<Clip start="2009" linear="0">
+			<Cycle arrow="0" data="9.36" ratio="199" size="46"/>
+			<Cycle arrow="3" data="9.36" ratio="1"/>
+		</Clip>
+		<Clip start="2056" linear="0">
+			<Cycle arrow="1" data="9.36" ratio="10" size="10"/>
+			<Cycle arrow="1" data="4.9" ratio="1"/>
+		</Clip>
+		<Clip start="2067" linear="0">
+			<Cycle arrow="0" data="4.9" ratio="17" size="17"/>
+			<Cycle arrow="3" data="4.9" ratio="1"/>
+		</Clip>
+		<Clip start="2085" linear="0">
+			<Cycle arrow="0" data="10" ratio="10" size="9"/>
+			<Cycle arrow="3" data="10" ratio="1"/>
+		</Clip>
+		<Clip start="2095" linear="0">
+			<Cycle arrow="0" data="4.9" ratio="17" size="83"/>
+			<Cycle arrow="3" data="4.9" ratio="1"/>
+		</Clip>
+		<Clip start="2179" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="2243" linear="0">
+			<Cycle arrow="2" data="0" ratio="15" size="15"/>
+			<Cycle arrow="3" data="-10" ratio="1"/>
+		</Clip>
+		<Clip start="2281" linear="0">
+			<Cycle arrow="2" data="0" ratio="14" size="14"/>
+			<Cycle arrow="3" data="-4.8" ratio="1"/>
+		</Clip>
+		<Clip start="2296" linear="0">
+			<Cycle arrow="0" data="0" ratio="13" size="13"/>
+			<Cycle arrow="3" data="8" ratio="1"/>
+		</Clip>
+		<Clip start="2310" linear="0">
+			<Cycle arrow="1" data="8" ratio="12" size="12"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2397" linear="0">
+			<Cycle arrow="0" data="4" ratio="19" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="2407" linear="0">
+			<Cycle arrow="3" data="-8" ratio="14" size="14"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2422" linear="0">
+			<Cycle arrow="0" data="0" ratio="49" size="59"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="2482" linear="0">
+			<Cycle arrow="0" data="-3" ratio="15" size="15"/>
+			<Cycle arrow="3" data="-3" ratio="1"/>
+		</Clip>
+		<Clip start="2505" linear="0">
+			<Cycle arrow="0" data="0" ratio="8" size="8"/>
+			<Cycle arrow="3" data="9.9" ratio="1"/>
+		</Clip>
+		<Clip start="2514" linear="0">
+			<Cycle arrow="0" data="9.9" ratio="49" size="48"/>
+			<Cycle arrow="3" data="9.9" ratio="1"/>
+		</Clip>
+		<Clip start="2563" linear="0">
+			<Cycle arrow="0" data="5.6" ratio="45" size="45"/>
+			<Cycle arrow="3" data="5.6" ratio="1"/>
+		</Clip>
+		<Clip start="2616" linear="0">
+			<Cycle arrow="0" data="-2" ratio="6" size="6"/>
+			<Cycle arrow="3" data="-2" ratio="1"/>
+		</Clip>
+		<Clip start="2623" linear="0">
+			<Cycle arrow="3" data="-2" ratio="18" size="9"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2633" linear="0">
+			<Cycle arrow="0" data="0" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="2805" linear="0">
+			<Cycle arrow="0" data="4" ratio="19" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="2815" linear="0">
+			<Cycle arrow="2" data="0" ratio="14" size="14"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="2877" linear="0">
+			<Cycle arrow="0" data="-4" ratio="19" size="9"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="2887" linear="0">
+			<Cycle arrow="0" data="-2" ratio="26" size="26"/>
+			<Cycle arrow="3" data="-2" ratio="1"/>
+		</Clip>
+		<Clip start="2925" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="2" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-2" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3002" linear="0">
+			<Cycle arrow="0" data="6" ratio="12" size="12"/>
+			<Cycle arrow="3" data="6" ratio="1"/>
+		</Clip>
+		<Clip start="3015" linear="0">
+			<Cycle arrow="1" data="6" ratio="12" size="12"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3028" linear="0">
+			<Cycle arrow="0" data="-4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="3038" linear="0">
+			<Cycle arrow="3" data="-4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3081" linear="0">
+			<Cycle arrow="0" data="0" ratio="129" size="129"/>
+			<Cycle arrow="3" data="4.2" ratio="1"/>
+		</Clip>
+		<Clip start="3211" linear="0">
+			<Cycle arrow="0" data="-2" ratio="26" size="43"/>
+			<Cycle arrow="3" data="-2" ratio="1"/>
+		</Clip>
+		<Clip start="3255" linear="0">
+			<Cycle arrow="2" data="-2" ratio="39" size="39"/>
+			<Cycle arrow="3" data="-8" ratio="1"/>
+		</Clip>
+		<Clip start="3295" linear="0">
+			<Cycle arrow="3" data="-8" ratio="12" size="12"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3392" linear="0">
+			<Cycle arrow="0" data="0" ratio="25" size="25"/>
+			<Cycle arrow="3" data="2.4" ratio="1"/>
+		</Clip>
+		<Clip start="3418" linear="0">
+			<Cycle arrow="0" data="-2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-2" ratio="1"/>
+		</Clip>
+		<Clip start="3428" linear="0">
+			<Cycle arrow="3" data="-2" ratio="42" size="26"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+	</Layer>
+	<Layer name="Pitch" joy="1" max="10" min="-10">
+		<Clip start="0" linear="0">
+			<Cycle arrow="2" data="0" ratio="198" size="198"/>
+			<Cycle arrow="3" data="-5.236" ratio="1"/>
+		</Clip>
+		<Clip start="199" linear="0">
+			<Cycle arrow="0" data="-5.18" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-5.18" ratio="1"/>
+		</Clip>
+		<Clip start="209" linear="0">
+			<Cycle arrow="0" data="-2.8" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-2.8" ratio="1"/>
+		</Clip>
+		<Clip start="219" linear="0">
+			<Cycle arrow="3" data="-5.18" ratio="143" size="143"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="363" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="643" linear="0">
+			<Cycle arrow="2" data="0" ratio="118" size="118"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="762" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="780" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="792" linear="0">
+			<Cycle arrow="0" data="0" ratio="56" size="38"/>
+			<Cycle arrow="3" data="5.2" ratio="1"/>
+		</Clip>
+		<Clip start="831" linear="0">
+			<Cycle arrow="0" data="5.2" ratio="126" size="40"/>
+			<Cycle arrow="3" data="5.2" ratio="1"/>
+		</Clip>
+		<Clip start="872" linear="0">
+			<Cycle arrow="1" data="5.2" ratio="49" size="49"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="927" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="990" linear="0">
+			<Cycle arrow="0" data="3" ratio="9" size="9"/>
+			<Cycle arrow="3" data="3" ratio="1"/>
+		</Clip>
+		<Clip start="1095" linear="0">
+			<Cycle arrow="0" data="3.3" ratio="25" size="25"/>
+			<Cycle arrow="3" data="3.3" ratio="1"/>
+		</Clip>
+		<Clip start="1121" linear="0">
+			<Cycle arrow="1" data="3.3" ratio="25" size="25"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1147" linear="0">
+			<Cycle arrow="0" data="3" ratio="9" size="9"/>
+			<Cycle arrow="3" data="3" ratio="1"/>
+		</Clip>
+		<Clip start="1225" linear="0">
+			<Cycle arrow="0" data="-4.2" ratio="12" size="12"/>
+			<Cycle arrow="3" data="-4.2" ratio="1"/>
+		</Clip>
+		<Clip start="1238" linear="0">
+			<Cycle arrow="3" data="-4.2" ratio="30" size="30"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1269" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="1419" linear="0">
+			<Cycle arrow="2" data="0" ratio="49" size="54"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="1478" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="1498" linear="0">
+			<Cycle arrow="0" data="4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="1522" linear="0">
+			<Cycle arrow="0" data="0" ratio="56" size="37"/>
+			<Cycle arrow="3" data="5.2" ratio="1"/>
+		</Clip>
+		<Clip start="1560" linear="0">
+			<Cycle arrow="0" data="5.2" ratio="126" size="67"/>
+			<Cycle arrow="3" data="5.2" ratio="1"/>
+		</Clip>
+		<Clip start="1681" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="1800" linear="0">
+			<Cycle arrow="0" data="0" ratio="49" size="52"/>
+			<Cycle arrow="3" data="8" ratio="1"/>
+		</Clip>
+		<Clip start="1855" linear="0">
+			<Cycle arrow="3" data="-4" ratio="15" size="15"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="1880" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="1905" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="1932" linear="0">
+			<Cycle arrow="0" data="4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="1975" linear="0">
+			<Cycle arrow="0" data="-2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-2" ratio="1"/>
+		</Clip>
+		<Clip start="1988" linear="0">
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="1" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-1" ratio="2" size="1"/>
+			<Cycle arrow="0" data="0" ratio="2" size="1"/>
+			<Cycle arrow="1" data="1" ratio="2" size="1"/>
+			<Cycle arrow="2" data="0" ratio="2" size="1"/>
+			<Cycle arrow="3" data="-1" ratio="1" size="1"/>
+			<Cycle arrow="0" data="0" ratio="1" size="1"/>
+			<Cycle arrow="1" data="1" ratio="1" size="1"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2023" linear="0">
+			<Cycle arrow="0" data="9" ratio="28" size="32"/>
+			<Cycle arrow="3" data="9" ratio="1"/>
+		</Clip>
+		<Clip start="2056" linear="0">
+			<Cycle arrow="1" data="9" ratio="49" size="10"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2085" linear="0">
+			<Cycle arrow="0" data="10" ratio="104" size="104"/>
+			<Cycle arrow="3" data="10" ratio="1"/>
+		</Clip>
+		<Clip start="2190" linear="0">
+			<Cycle arrow="1" data="10" ratio="52" size="52"/>
+			<Cycle arrow="1" data="5" ratio="1"/>
+		</Clip>
+		<Clip start="2243" linear="0">
+			<Cycle arrow="0" data="5" ratio="15" size="15"/>
+			<Cycle arrow="3" data="5" ratio="1"/>
+		</Clip>
+		<Clip start="2259" linear="0">
+			<Cycle arrow="0" data="-2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-2" ratio="1"/>
+		</Clip>
+		<Clip start="2622" linear="0">
+			<Cycle arrow="0" data="4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="2652" linear="0">
+			<Cycle arrow="2" data="0" ratio="45" size="45"/>
+			<Cycle arrow="3" data="-6" ratio="1"/>
+		</Clip>
+		<Clip start="2698" linear="0">
+			<Cycle arrow="3" data="-6" ratio="76" size="76"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2878" linear="0">
+			<Cycle arrow="0" data="4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="4" ratio="1"/>
+		</Clip>
+		<Clip start="2888" linear="0">
+			<Cycle arrow="2" data="0" ratio="26" size="26"/>
+			<Cycle arrow="3" data="-4" ratio="1"/>
+		</Clip>
+		<Clip start="2925" linear="0">
+			<Cycle arrow="0" data="0" ratio="3" size="3"/>
+			<Cycle arrow="1" data="3" ratio="3" size="3"/>
+			<Cycle arrow="2" data="0" ratio="3" size="3"/>
+			<Cycle arrow="3" data="-3" ratio="3" size="3"/>
+			<Cycle arrow="0" data="0" ratio="3" size="3"/>
+			<Cycle arrow="1" data="3" ratio="3" size="3"/>
+			<Cycle arrow="2" data="0" ratio="3" size="3"/>
+			<Cycle arrow="3" data="-3" ratio="3" size="3"/>
+			<Cycle arrow="0" data="0" ratio="3" size="3"/>
+			<Cycle arrow="1" data="3" ratio="3" size="3"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="2" data="0" ratio="2" size="2"/>
+			<Cycle arrow="3" data="-3" ratio="2" size="2"/>
+			<Cycle arrow="0" data="0" ratio="2" size="2"/>
+			<Cycle arrow="1" data="3" ratio="2" size="2"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="2980" linear="0">
+			<Cycle arrow="0" data="2" ratio="9" size="9"/>
+			<Cycle arrow="3" data="2" ratio="1"/>
+		</Clip>
+		<Clip start="2990" linear="0">
+			<Cycle arrow="0" data="2" ratio="14" size="14"/>
+			<Cycle arrow="0" data="8.4" ratio="1"/>
+		</Clip>
+		<Clip start="3005" linear="0">
+			<Cycle arrow="0" data="8.4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="8.4" ratio="1"/>
+		</Clip>
+		<Clip start="3015" linear="0">
+			<Cycle arrow="1" data="8.4" ratio="6" size="6"/>
+			<Cycle arrow="2" data="0" ratio="6" size="6"/>
+			<Cycle arrow="3" data="-8.4" ratio="1"/>
+		</Clip>
+		<Clip start="3028" linear="0">
+			<Cycle arrow="0" data="-8.4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="-8.4" ratio="1"/>
+		</Clip>
+		<Clip start="3038" linear="0">
+			<Cycle arrow="3" data="-8.4" ratio="9" size="9"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3124" linear="0">
+			<Cycle arrow="0" data="0" ratio="22" size="22"/>
+			<Cycle arrow="1" data="3" ratio="21" size="21"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+		<Clip start="3307" linear="0">
+			<Cycle arrow="2" data="0" ratio="85" size="88"/>
+			<Cycle arrow="3" data="-6" ratio="58" size="59"/>
+			<Cycle arrow="3" data="0" ratio="1"/>
+		</Clip>
+	</Layer>
+</QEProject>
